@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Tara! 👋
 
-<!--
-**taradenaud/taradenaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
+I'm an undergraduate student at the University of Ottawa, doing a BSc in Computer Science!
 
-Here are some ideas to get you started:
+## My Public Repositories
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taradenaud&repo=taradenaud&theme=default)](https://github.com/taradenaud/taradenaud)
+
+## Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taradenaud&layout=compact&theme=default)
+
+## Connect With Me
+
+Feel free to explore my repositories and reach out if you'd like to collaborate!
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=taradenaud&color=blueviolet)
