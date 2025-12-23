@@ -1,4 +1,4 @@
-# Hi there, I'm Tara! 👋
+# Hi there, I'm Tara! 
 
 Welcome to my GitHub profile!
 I'm an undergraduate student at the University of Ottawa, doing a BSc in Computer Science!
